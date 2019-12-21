@@ -11,8 +11,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #contact {
-  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5))), url("/images/guitar_hand_strings_122915_1280x720.jpg") no-repeat fixed;
-  background: linear-gradient(rgba(0, 0, 0, 0.5)), url("/images/guitar_hand_strings_122915_1280x720.jpg") no-repeat fixed;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5))), url("../../../images/guitar_hand_strings_122915_1280x720.jpg") no-repeat fixed;
+  background: linear-gradient(rgba(0, 0, 0, 0.5)), url("../../../images/guitar_hand_strings_122915_1280x720.jpg") no-repeat fixed;
   background-position: center center;
   background-size: cover;
 }
