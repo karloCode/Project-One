@@ -21,6 +21,7 @@ h1, h2, h3, h4, h5, h6 {
 #team #teamContainer #content #heading p {
   font-size: .9em;
   color: #646464;
+  line-height: 1.9;
 }
 
 #team #teamContainer #content #teamProfile > .hc-col-3 {
