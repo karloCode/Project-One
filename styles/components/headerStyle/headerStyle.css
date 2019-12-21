@@ -11,8 +11,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(10, 10, 10, 0.6)), to(transparent)), url("images/marshmallows_cup_drink.jpg");
-  background-image: linear-gradient(to bottom, rgba(10, 10, 10, 0.6), transparent), url("images/marshmallows_cup_drink.jpg");
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(10, 10, 10, 0.6)), to(transparent)), url("images/marshmallows_cup_drink.jpg");
+  background: linear-gradient(to bottom, rgba(10, 10, 10, 0.6), transparent), url("images/marshmallows_cup_drink.jpg");
   background-position: center center;
   background-size: cover;
   top: 0;
